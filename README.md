@@ -1,5 +1,8 @@
 # Springboard_Submissions
 This contains all the submissions of Assignments during Springboards Course
+# Inferential_Statistics Analysis Projects
+Three projects are included based on Inferential_Statistics
+Application on Human_Body_temperature dataset, Racial_descrimination dataset, Hospital_Readmission Dataset. 
 # Json Project
 Using data in file 'data/world_bank_projects.json' 
 Q1:- Find the 10 countries with most projects
